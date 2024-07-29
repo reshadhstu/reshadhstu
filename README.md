@@ -39,13 +39,13 @@
 </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats-one-nu-32.vercel.app/api/top-langs?username=reshadhstu&theme=transparent&show_icons=true&locale=en&layout=compact" alt="reshadhstu" /></p>
+<p><img align="left" src="https://github-readme-stats-one-nu-32.vercel.app/api/top-langs?username=reshadhstu&count_private=true&count_private=true&theme=transparent&show_icons=true&locale=en&layout=compact" alt="reshadhstu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-one-nu-32.vercel.app/api?username=reshadhstu&theme=transparent&show_icons=true&locale=en" alt="reshadhstu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-one-nu-32.vercel.app/api?username=reshadhstu&count_private=true&theme=transparent&show_icons=true&locale=en" alt="reshadhstu" /></p>
 
 ## Activity On GitHub:
 <p align="center">
   <a href="https://github.com/Thinkright20">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=reshadhstu&theme=transparent&hide_border=true&stroke=f53b3b"/>
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=reshadhstu&count_private=true&theme=transparent&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
