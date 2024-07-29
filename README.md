@@ -49,3 +49,7 @@
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=reshadhstu&count_private=true&theme=transparent&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
+
+## My Contributions:
+<p align="center">
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> </p>
