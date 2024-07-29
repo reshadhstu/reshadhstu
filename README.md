@@ -25,10 +25,10 @@
 
 ## Connect with me:
 <p align="left">
-    <a href="https://linkedin.com/in/reshadhstu" target="blank">
+    <a href="https://linkedin.com/in/reshadhstu" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reshadhstu" height="30" width="40" />
     </a>
-    <a href="https://stackoverflow.com/users/3051198/reshad" target="blank">
+    <a href="https://stackoverflow.com/users/3051198/reshad" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="reshad" height="30" width="40" />
     </a>
 </p>
