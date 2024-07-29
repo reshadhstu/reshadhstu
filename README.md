@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reshadhstu" alt="reshadhstu" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://reshadhstu.wixsite.com/portfolio](https://reshadhstu.wixsite.com/portfolio)
+- 👨‍💻 Most of my projects are available at [https://reshadhstu.wixsite.com/portfolio/projects](https://reshadhstu.wixsite.com/portfolio/projects)
 
-- 📝 I regularly write articles on [https://reshadhstu.wixsite.com/portfolio/my-blog](https://reshadhstu.wixsite.com/portfolio/my-blog)
+- 📝 I often write articles on [https://reshadhstu.wixsite.com/portfolio/my-blog](https://reshadhstu.wixsite.com/portfolio/my-blog)
 
 - 💬 Ask me about **Unity, C#, Unreal, Cocos, Deep Learning, Arduino Microcontroller**
 
