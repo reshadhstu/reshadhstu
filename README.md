@@ -35,7 +35,7 @@
 
 ## Languages and Tools:
 <p align="left"> <a href="https://github.com/reshadhstu">
-    <img src="https://skillicons.dev/icons?i=unity,cs,blender,arduino,python,opencv,php,rider,pycharm,js,html,CSS,firebase,mysql"> 
+    <img src="https://skillicons.dev/icons?i=unity,cs,blender,arduino,python,opencv,php,rider,pycharm,js,html,css,firebase,mysql"> 
 </a> 
 </p>
 
