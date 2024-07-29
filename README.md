@@ -17,10 +17,10 @@
 </p>
 
 - 👨‍💻 Most of my projects are available at [My Projects](https://reshadhstu.wixsite.com/portfolio/projects)
-- 📝 I often write articles on [My Blog](https://reshadhstu.wixsite.com/portfolio/my-blog)
+- 📝 I sometimes write articles on [My Blog](https://reshadhstu.wixsite.com/portfolio/my-blog)
 - 💬 Ask me about **Unity, C#, Unreal, Cocos, Deep Learning, Arduino Microcontroller**
 - 📫 How to reach me **reshad.hstu@gmail.com**
-- 📄 Know about my experiences [My Experience](https://reshadhstu.wixsite.com/portfolio/experience)
+- 📄 Know about [My Experiences](https://reshadhstu.wixsite.com/portfolio/experience)
 - ⚡ Fun fact **I’m not a bug, I’m a feature!**
 
 <h3 align="left">Connect with me:</h3>
