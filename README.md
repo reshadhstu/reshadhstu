@@ -126,4 +126,4 @@
 
 <p><img align="left" src="https://github-readme-stats-one-nu-32.vercel.app/api/top-langs?username=reshadhstu&show_icons=true&locale=en&layout=compact" alt="reshadhstu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reshadhstu&show_icons=true&locale=en" alt="reshadhstu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-one-nu-32.vercel.app/api?username=reshadhstu&show_icons=true&locale=en" alt="reshadhstu" /></p>
