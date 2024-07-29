@@ -3,7 +3,7 @@
 
 <!-- Profile Gif -->
 <div align="center">
-    <img src="https://github.com/reshadhstu/reshadhstu/blob/main/my.gif?raw=true" alt="Game Developer" width="500">
+    <img src="https://github.com/reshadhstu/reshadhstu/blob/main/my.gif?raw=true" alt="Game Developer" width="600">
 </div>
 
 <p align="center">
