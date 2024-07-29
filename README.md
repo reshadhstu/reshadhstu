@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reshad Bin Kibria</h1>
-<h3 align="center">A passionate and experienced Unity and C# .Net developer from Bangladesh</h3>
+<h3 align="center">A passionate and experienced Unity and C# .Net Developer from Bangladesh</h3>
 
 <!-- Profile Gif -->
 <div align="center">
@@ -12,7 +12,7 @@
 
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=reshadhstu&margin-w=15&margin-h=15" alt="reshadhstu" />
+        <img src="https://github-profile-trophy.vercel.app/?username=reshadhstu&theme=algolia&margin-w=15&margin-h=15" alt="reshadhstu" />
     </a>
 </p>
 
