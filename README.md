@@ -35,18 +35,15 @@
 
 ## Languages and Tools:
 <p align="left"> <a href="https://github.com/reshadhstu">
-    <img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> 
+    <img src="https://skillicons.dev/icons?i=unity,cs,blender,arduino,python,opencv,php,rider,pycharm,js,html,CSS,firebase,mysql"> 
 </a> 
 </p>
-
-
 
 <p><img align="left" src="https://github-readme-stats-one-nu-32.vercel.app/api/top-langs?username=reshadhstu&theme=transparent&show_icons=true&locale=en&layout=compact" alt="reshadhstu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-one-nu-32.vercel.app/api?username=reshadhstu&theme=transparent&show_icons=true&locale=en" alt="reshadhstu" /></p>
 
-## Activity On GitHub
-
+## Activity On GitHub:
 <p align="center">
   <a href="https://github.com/Thinkright20">      
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=reshadhstu&theme=transparent&hide_border=true&stroke=f53b3b"/>
