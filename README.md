@@ -14,7 +14,7 @@
 
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=reshadhstu&theme=algolia&margin-w=15&margin-h=15" alt="reshadhstu" />
+        <img src="https://github-profile-trophy.vercel.app/?username=reshadhstu&theme=transparent&margin-w=15&margin-h=15" alt="reshadhstu" />
     </a>
 </p>
 
@@ -41,9 +41,9 @@
 </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats-woad-theta.vercel.app/api/top-langs?username=reshadhstu&theme=transparent&show_icons=true&locale=en&layout=compact" alt="reshadhstu" /></p>
+<p><img align="left" src="https://github-readme-stats-iota-two-24.vercel.app/api/top-langs?username=reshadhstu&theme=transparent&show_icons=true&locale=en&layout=compact" alt="reshadhstu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-woad-theta.vercel.app/api?username=reshadhstu&theme=transparent&show_icons=true&locale=en" alt="reshadhstu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-iota-two-24.vercel.app/api?username=reshadhstu&theme=transparent&show_icons=true&locale=en" alt="reshadhstu" /></p>
 
 ## Activity On GitHub:
 <p align="center">
