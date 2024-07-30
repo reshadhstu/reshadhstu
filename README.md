@@ -41,9 +41,9 @@
 </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats-one-nu-32.vercel.app/api/top-langs?username=reshadhstu&count_private=true&count_private=true&theme=transparent&show_icons=true&locale=en&layout=compact" alt="reshadhstu" /></p>
+<p><img align="left" src="https://github-readme-stats-woad-theta.vercel.app/api/top-langs?username=reshadhstu&count_private=true&count_private=true&theme=transparent&show_icons=true&locale=en&layout=compact" alt="reshadhstu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-one-nu-32.vercel.app/api?username=reshadhstu&count_private=true&theme=transparent&show_icons=true&locale=en" alt="reshadhstu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-woad-theta.vercel.app/api?username=reshadhstu&count_private=true&theme=transparent&show_icons=true&locale=en" alt="reshadhstu" /></p>
 
 ## Activity On GitHub:
 <p align="center">
