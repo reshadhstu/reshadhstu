@@ -27,7 +27,7 @@
 - 💬 Expert in **Unity Game Development** and **C# Programming**
 - 📫 Reach me at **reshad.hstu@gmail.com**
 - 📄 View [My Experience](https://reshadhstu.wixsite.com/portfolio/experience)
-- ⚡ Fun fact: **I'm not a bug, I'm a feature!** 🐛✨
+- ⚡ **I'm not a bug, I'm a feature!** 🐛✨
 
 ## 🤝 Connect With Me
 <p>
