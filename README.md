@@ -32,13 +32,13 @@
 ## 🤝 Connect With Me
 <p>
   <a href="https://linkedin.com/in/reshadhstu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?theme=dark&perline=10&i=linkedin" width="40" alt="LinkedIn"/>
   </a>
   <a href="https://stackoverflow.com/users/3051198/reshad" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+    <img src="https://skillicons.dev/icons?theme=dark&perline=10&i=stackoverflow" width="40" alt="Stack Overflow"/>
   </a>
   <a href="https://www.youtube.com/c/alienideinteractive/channels" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" alt="YouTube"/>
   </a>
 </p>
 
