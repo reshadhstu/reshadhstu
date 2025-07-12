@@ -22,7 +22,7 @@
 <div align="left">
 
 ## 🚀 About Me
-- 👨‍💻 Check out my projects at [My Portfolio](https://reshadhstu.wixsite.com/portfolio/projects)
+- 👨‍💻 Check out my projects at [My Portfolio](https://reshadhstu.wixsite.com/portfolio)
 - 📝 Read my articles on [My Blog](https://reshadhstu.wixsite.com/portfolio/my-blog)
 - 💬 Expert in **Unity Game Development** and **C# Programming**
 - 📫 Reach me at **reshad.hstu@gmail.com**
