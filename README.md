@@ -48,12 +48,12 @@
 </p>
 
 <p>
-  <img src="https://github-readme-stats-iota-two-24.vercel.app/api/top-langs?username=reshadhstu&count_private=true&theme=transparent&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reshadhstu&count_private=true&theme=transparent&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
 </p>
 
 ## 📊 GitHub Statistics
 <p>
-  <img src="https://github-readme-stats-iota-two-24.vercel.app/api?username=reshadhstu&count_private=true&theme=transparent&hide_border=true&stroke=f53b3b&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=reshadhstu&count_private=true&theme=transparent&hide_border=true&stroke=f53b3b&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 ## 🐍 Contribution Graph
