@@ -48,12 +48,12 @@
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reshadhstu&count_private=true&theme=transparent&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=reshadhstu&count_private=true&theme=transparent&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
 </p>
 
 ## 📊 GitHub Statistics
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=reshadhstu&count_private=true&theme=transparent&hide_border=true&stroke=f53b3b&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=reshadhstu&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent&hide_border=true&stroke=f53b3b&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 ## 🐍 Contribution Graph
@@ -62,4 +62,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reshadhstu/reshadhstu/output/github-contribution-grid-snake.svg"/>
   <img alt="github-snake" src="https://raw.githubusercontent.com/reshadhstu/reshadhstu/output/github-contribution-grid-snake.svg"/>
 </picture>
+
+<p>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=reshadhstu&count_private=true&show_icons=true&locale=en&theme=transparent" alt="Contribution" />
+</p>
 </div>
